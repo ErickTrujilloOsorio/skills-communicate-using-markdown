@@ -10,3 +10,6 @@
 ```javascript
 var text = "Hello World!"
 ```
+- [x] Learning markdown
+- [x] Using Github
+- [ ] Conquer the world 
